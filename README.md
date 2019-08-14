@@ -1,7 +1,7 @@
 # Accessible-Object
 Gets the smallest Accessible Object under the mouse.
 
-### How to use it
+### What does the program do
 
 When you click “Add group” button: 
 	
