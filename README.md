@@ -1,6 +1,8 @@
 # Accessible-Object
 Gets the smallest Accessible Object under the mouse.
 
+### How to use it
+
 When you click “Add group” button: 
 	
   - A new group is added to a treeview control. It is named automatically.
